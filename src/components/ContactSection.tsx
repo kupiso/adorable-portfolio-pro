@@ -18,7 +18,7 @@ const ContactSection = () => (
           Together 💌
         </h2>
         <p className="text-primary-foreground/80 font-serif-body italic text-[17px] leading-[1.8]">
-          I'm always open to exciting new opportunities, collaborations, and conversations. Don't hesitate to reach out — I'd love to connect!
+          Open to new opportunities and collaborations — let's connect!
         </p>
         <a
           href="#home"

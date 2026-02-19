@@ -38,7 +38,7 @@ const ReferencesSection = () => (
         Professional <em className="text-rose italic">References</em>
       </h2>
       <p className="font-serif-body italic text-[17px] text-text-light mb-14 max-w-[560px]">
-        People who've seen my work and can speak to my character.
+        Available upon request to speak to my work and character.
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">

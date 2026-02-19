@@ -43,7 +43,7 @@ const ExperienceSection = () => (
       My Career <em className="text-rose italic">Journey</em>
     </h2>
     <p className="font-serif-body italic text-[17px] text-text-light mb-14 max-w-[560px]">
-      Every role has shaped me into the professional I am today.
+      Each role has shaped who I am today.
     </p>
 
     <div className="flex flex-col gap-6">
