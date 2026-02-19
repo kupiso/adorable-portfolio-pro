@@ -27,7 +27,7 @@ const EducationSection = () => (
         Academic <em className="text-rose italic">Foundation</em>
       </h2>
       <p className="font-serif-body italic text-[17px] text-text-light mb-14 max-w-[560px]">
-        Building knowledge, one qualification at a time.
+        One qualification at a time.
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">

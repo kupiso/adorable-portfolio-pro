@@ -19,7 +19,7 @@ const SkillsSection = () => (
       What I <em className="text-rose italic">Bring</em>
     </h2>
     <p className="font-serif-body italic text-[17px] text-text-light mb-14 max-w-[560px]">
-      A blend of technical ability and people-first soft skills.
+      Technical expertise paired with strong interpersonal abilities.
     </p>
 
     <div className="grid grid-cols-1 md:grid-cols-2 gap-12">

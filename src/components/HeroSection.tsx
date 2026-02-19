@@ -11,7 +11,7 @@ const HeroSection = () => (
         <span className="w-2 h-2 bg-sage rounded-full animate-pulse-dot" />
         Available for New Opportunities
       </div>
-      <h1 className="font-display text-5xl md:text-7xl lg:text-[88px] font-black leading-[1.05] text-warm-brown mb-3 animate-fade-up">
+       <h1 className="font-display text-5xl md:text-7xl lg:text-[88px] font-black leading-[1.05] text-warm-brown mb-3 animate-fade-up">
         Hello, I'm
         <br />
         <span className="text-rose italic">Asemahle</span>
@@ -20,7 +20,7 @@ const HeroSection = () => (
         HR Professional · Labour Relations · Logistics
       </p>
       <p className="text-[15px] text-text-mid max-w-[520px] leading-[1.9] mb-11 animate-fade-up" style={{ animationDelay: "0.3s" }}>
-        A dedicated and hardworking professional with a passion for people, process, and positive change. Based in Johannesburg 🌍 and equipped with advanced HR qualifications and real-world experience.
+        Passionate about people, process, and positive change. Based in Johannesburg 🌍 with advanced HR qualifications and hands-on industry experience.
       </p>
       <div className="flex gap-4 flex-wrap animate-fade-up" style={{ animationDelay: "0.4s" }}>
         <a

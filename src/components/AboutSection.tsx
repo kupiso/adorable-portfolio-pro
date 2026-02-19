@@ -23,16 +23,16 @@ const AboutSection = () => (
         Get to Know <em className="text-rose italic">Asemahle</em>
       </h2>
       <p className="font-serif-body italic text-[17px] text-text-light mb-14 max-w-[560px]">
-        A glimpse into who I am, what drives me, and what I believe in.
+        Who I am, what drives me, and what I stand for.
       </p>
 
       <div className="grid grid-cols-1 lg:grid-cols-[1.2fr_1fr] gap-16 items-center">
         <div>
           <p className="font-serif-body text-[17px] leading-[2] text-text-mid">
-            I am a passionate, dedicated, and hardworking young professional from the Eastern Cape, now based in Johannesburg. With a foundation in Human Resource Management, advanced qualifications in Higher Education, and hands-on experience in Labour Relations and Logistics, I bring a unique blend of academic excellence and practical skill.
+            Originally from the Eastern Cape and now based in Johannesburg, I hold qualifications in Human Resource Management and Higher Education, with hands-on experience in Labour Relations and Logistics.
           </p>
           <p className="font-serif-body text-[17px] leading-[2] text-text-mid mt-4">
-            My ultimate goal is to contribute to the TVET sector, helping shape the next generation of professionals through quality education and mentorship.
+            My goal is to contribute to the TVET sector — shaping the next generation through quality education and mentorship.
           </p>
 
           <div className="grid grid-cols-2 gap-2.5 mt-7">
