@@ -1,14 +1,37 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import FloatingPetals from "@/components/FloatingPetals";
+import TopBar from "@/components/TopBar";
+import Header from "@/components/Header";
+import HeroSection from "@/components/HeroSection";
+import AboutSection from "@/components/AboutSection";
+import WaveDivider from "@/components/WaveDivider";
+import ObjectiveSection from "@/components/ObjectiveSection";
+import ExperienceSection from "@/components/ExperienceSection";
+import EducationSection from "@/components/EducationSection";
+import SkillsSection from "@/components/SkillsSection";
+import ReferencesSection from "@/components/ReferencesSection";
+import ContactSection from "@/components/ContactSection";
+import Footer from "@/components/Footer";
+import BackToTop from "@/components/BackToTop";
 
-const Index = () => {
-  return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
-    </div>
-  );
-};
+const Index = () => (
+  <>
+    <FloatingPetals />
+    <TopBar />
+    <Header />
+    <main>
+      <HeroSection />
+      <AboutSection />
+      <WaveDivider />
+      <ObjectiveSection />
+      <ExperienceSection />
+      <EducationSection />
+      <SkillsSection />
+      <ReferencesSection />
+      <ContactSection />
+    </main>
+    <Footer />
+    <BackToTop />
+  </>
+);
 
 export default Index;
