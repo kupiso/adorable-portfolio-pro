@@ -2,7 +2,7 @@ const CONTACTS = [
   { icon: "📞", label: "Primary Phone", value: "071 964 3937", href: "tel:0719643937" },
   { icon: "📱", label: "Secondary Phone", value: "078 411 4449", href: "tel:0784114449" },
   { icon: "✉️", label: "Email Address", value: "asemahlekupiso@gmail.com", href: "mailto:asemahlekupiso@gmail.com" },
-  { icon: "📍", label: "Location", value: "Bramley, Johannesburg, 2092", href: null },
+  { icon: "📍", label: "Location", value: "32 Albany Grove, Durban Central-CBD", href: null },
 ];
 
 const ContactSection = () => (

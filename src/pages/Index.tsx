@@ -7,6 +7,7 @@ import WaveDivider from "@/components/WaveDivider";
 import ObjectiveSection from "@/components/ObjectiveSection";
 import ExperienceSection from "@/components/ExperienceSection";
 import EducationSection from "@/components/EducationSection";
+import CertificationsSection from "@/components/CertificationsSection";
 import SkillsSection from "@/components/SkillsSection";
 import ReferencesSection from "@/components/ReferencesSection";
 import ContactSection from "@/components/ContactSection";
@@ -25,6 +26,7 @@ const Index = () => (
       <ObjectiveSection />
       <ExperienceSection />
       <EducationSection />
+      <CertificationsSection />
       <SkillsSection />
       <ReferencesSection />
       <ContactSection />
