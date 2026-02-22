@@ -28,7 +28,7 @@ const Footer = () => (
           </div>
         </div>
         <p className="font-serif-body italic text-primary-foreground/50 mt-4 text-sm leading-[1.8]">
-          HR professional based in Durban, South Africa 🇿🇦
+          Dedicated HR professional passionate about people, process, and positive change. Durban, South Africa 🇿🇦
         </p>
       </div>
 

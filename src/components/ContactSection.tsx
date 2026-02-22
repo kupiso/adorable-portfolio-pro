@@ -12,13 +12,11 @@ const ContactSection = () => (
     </div>
     <div className="max-w-[1200px] mx-auto px-6 md:px-12 py-24 grid grid-cols-1 md:grid-cols-2 gap-14 items-center relative z-[1]">
       <div>
-        <h2 className="font-display text-4xl md:text-5xl font-black text-primary-foreground leading-[1.1] mb-5">
-          Let's Work
-          <br />
-          Together 💌
+      <h2 className="font-display text-4xl md:text-5xl font-black text-primary-foreground leading-[1.1] mb-5">
+          Let's Connect 💌
         </h2>
         <p className="text-primary-foreground/80 font-serif-body italic text-[17px] leading-[1.8]">
-          Open to new opportunities and collaborations — let's connect!
+          Open to exciting HR roles, TVET opportunities, and professional collaborations. Reach out — I'd love to chat!
         </p>
         <a
           href="#home"
