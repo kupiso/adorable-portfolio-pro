@@ -29,7 +29,7 @@ const AboutSection = () => (
       <div className="grid grid-cols-1 lg:grid-cols-[1.2fr_1fr] gap-16 items-center">
         <div>
           <p className="font-serif-body text-[17px] leading-[2] text-text-mid">
-            Originally from the Eastern Cape and now based in Johannesburg, I hold qualifications in Human Resource Management and Higher Education, with hands-on experience in Labour Relations and Logistics.
+            Originally from the Eastern Cape and now based in Durban, I hold qualifications in Human Resource Management and Higher Education, with hands-on experience in Labour Relations and Logistics.
           </p>
           <p className="font-serif-body text-[17px] leading-[2] text-text-mid mt-4">
             My goal is to contribute to the TVET sector — shaping the next generation through quality education and mentorship.

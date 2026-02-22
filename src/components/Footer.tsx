@@ -28,7 +28,7 @@ const Footer = () => (
           </div>
         </div>
         <p className="font-serif-body italic text-primary-foreground/50 mt-4 text-sm leading-[1.8]">
-          HR professional based in Johannesburg, South Africa 🇿🇦
+          HR professional based in Durban, South Africa 🇿🇦
         </p>
       </div>
 
@@ -62,7 +62,7 @@ const Footer = () => (
     <div className="border-t border-primary-foreground/[0.08] max-w-[1200px] mx-auto px-6 md:px-12 py-6 flex flex-col md:flex-row justify-between items-center gap-2 text-xs text-primary-foreground/35">
       <div>© 2026 Asemahle Kupiso. All rights reserved.</div>
       <div className="text-rose">Made with 🌸 & 💕</div>
-      <div>Johannesburg, South Africa 🇿🇦</div>
+      <div>Durban, South Africa 🇿🇦</div>
     </div>
   </footer>
 );
