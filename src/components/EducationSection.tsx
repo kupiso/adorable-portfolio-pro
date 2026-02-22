@@ -8,9 +8,9 @@ const EDUCATION = [
 ];
 
 const AWARDS = [
-  { icon: "📜", title: "Realise Certificate", org: "Transcend · 2024" },
-  { icon: "⭐", title: "FedEx Bravo Zulu Award", org: "FedEx Express · 2025" },
-  { icon: "🎓", title: "SACE Certification", org: "SA Council for Educators · 2026" },
+  { icon: "⭐", title: "FedEx Bravo Zulu Award", org: "FedEx Express · February 2025" },
+  { icon: "📜", title: "Transcend Realise Certificate", org: "Work Readiness Programme · March 2024" },
+  { icon: "🎓", title: "SACE Certification", org: "South African Council for Educators · 2026" },
 ];
 
 const EducationSection = () => (

@@ -29,7 +29,7 @@ const HeroSection = () => (
         HR Professional · Labour Relations · Logistics
       </p>
       <p className="text-[15px] text-text-mid max-w-[520px] leading-[1.9] mb-11 animate-fade-up" style={{ animationDelay: "0.3s" }}>
-        Passionate about people, process, and positive change. Based in Durban 🌍 with advanced HR qualifications and hands-on industry experience.
+        Post-graduate qualified HR practitioner with hands-on experience in government labour relations and international logistics — passionate about people, policy, and the TVET sector.
       </p>
       <div className="flex gap-4 flex-wrap animate-fade-up" style={{ animationDelay: "0.4s" }}>
         <a
@@ -73,10 +73,10 @@ const HeroSection = () => (
         </div>
 
         <div className="grid grid-cols-2 gap-2.5 mt-5 relative z-[1]">
-          <QuickStat num="3+" label="Years Exp" />
+          <QuickStat num="2+" label="Yrs Exp" />
+          <QuickStat num="3" label="Degrees" />
           <QuickStat num="5" label="Certificates" />
           <QuickStat num="2" label="Sectors" />
-          <QuickStat num="3" label="Awards" />
         </div>
       </div>
     </div>

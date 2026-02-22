@@ -1,12 +1,12 @@
 import { motion } from "framer-motion";
 
 const VALUES = [
-  { icon: "🌱", label: "Growth Mindset" },
-  { icon: "💪", label: "Resilience" },
-  { icon: "🤝", label: "Integrity" },
-  { icon: "🌺", label: "Compassion" },
-  { icon: "✨", label: "Excellence" },
-  { icon: "💖", label: "Empathy" },
+  { icon: "💡", label: "Problem-Solver" },
+  { icon: "🤝", label: "Team Leader" },
+  { icon: "🎯", label: "Detail-Oriented" },
+  { icon: "🌱", label: "Continuous Learner" },
+  { icon: "⚡", label: "Works Under Pressure" },
+  { icon: "💬", label: "Strong Communicator" },
 ];
 
 const AboutSection = () => (
@@ -20,19 +20,16 @@ const AboutSection = () => (
         🌸 About Me
       </div>
       <h2 className="font-display text-4xl md:text-5xl font-black text-warm-brown leading-tight mb-4">
-        Get to Know <em className="text-rose italic">Asemahle</em>
+        Driven by <em className="text-rose italic">People</em>
       </h2>
       <p className="font-serif-body italic text-[17px] text-text-light mb-14 max-w-[560px]">
-        Who I am, what drives me, and what I stand for.
+        HR professional with a passion for positive change, TVET education, and excellence.
       </p>
 
       <div className="grid grid-cols-1 lg:grid-cols-[1.2fr_1fr] gap-16 items-center">
         <div>
           <p className="font-serif-body text-[17px] leading-[2] text-text-mid">
-            Originally from the Eastern Cape and now based in Durban, I hold qualifications in Human Resource Management and Higher Education, with hands-on experience in Labour Relations and Logistics.
-          </p>
-          <p className="font-serif-body text-[17px] leading-[2] text-text-mid mt-4">
-            My goal is to contribute to the TVET sector — shaping the next generation through quality education and mentorship.
+            I am a dedicated, post-graduate qualified HR professional with hands-on experience in government labour relations and logistics operations. I am a natural communicator who thrives both independently and in teams, always seeking opportunities to grow, lead, and make a meaningful impact — particularly through the TVET education sector.
           </p>
 
           <div className="grid grid-cols-2 gap-2.5 mt-7">
@@ -50,8 +47,8 @@ const AboutSection = () => (
 
         <div className="flex flex-col gap-4">
           <MiniCard emoji="🎓" title="Post-Graduate Qualified" sub="Advanced Diploma + PG Diploma in HRM & Higher Education" />
-          <MiniCard emoji="🏛️" title="Government & Corporate" sub="Experience across the Department of Education and FedEx Express" borderColor="border-sage/20" />
-          <MiniCard emoji="🌺" title="TVET Sector Aspiration" sub="Passionate about teaching in the Technical and Vocational Education sector" borderColor="border-mauve-light/20" />
+          <MiniCard emoji="🏛️" title="Dual Sector Experience" sub="Government (Dept. of Education) and corporate logistics (FedEx Express)" borderColor="border-sage/20" />
+          <MiniCard emoji="📚" title="SACE Certified" sub="Qualified to teach in the Technical & Vocational Education sector" borderColor="border-mauve-light/20" />
         </div>
       </div>
     </div>

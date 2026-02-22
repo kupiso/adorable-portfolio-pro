@@ -10,10 +10,10 @@ const ObjectiveSection = () => (
     <div className="bg-card/90 rounded-lg p-10 md:p-12 shadow-card border border-rose/15 max-w-[860px] relative overflow-hidden">
       <div className="absolute -top-5 -left-5 text-[100px] opacity-[0.06] font-display leading-none">"</div>
       <p className="font-serif-body text-lg italic leading-[2] text-text-mid relative z-[1]">
-        With a <strong className="text-warm-brown not-italic">PG Diploma in Higher Education</strong> and experience in{" "}
-        <strong className="text-warm-brown not-italic">Logistics</strong> and{" "}
-        <strong className="text-warm-brown not-italic">Labour Relations</strong>, I aspire to teach in the{" "}
-        <strong className="text-warm-brown not-italic">TVET</strong> sector — inspiring and equipping the next generation.
+        I am an HR professional with an Honours-level qualification in Lecturing, practical experience in{" "}
+        <strong className="text-warm-brown not-italic">Logistics</strong> and as an{" "}
+        <strong className="text-warm-brown not-italic">Assistant Labour Relations Officer</strong>, aspiring to teach in the{" "}
+        <strong className="text-warm-brown not-italic">TVET sector</strong> and drive meaningful change.
       </p>
       <div className="flex gap-3 flex-wrap mt-7 relative z-[1]">
         <span className="inline-flex items-center gap-2 bg-blush rounded-full px-4 py-2 text-xs font-extrabold text-rose-dark">🎓 HR Professional</span>
