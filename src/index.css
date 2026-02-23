@@ -104,6 +104,12 @@
   100% { transform: translateY(110vh) rotate(720deg); opacity: 0; }
 }
 
+/* Sparkle glitter animation */
+@keyframes sparkleGlitter {
+  0%, 100% { opacity: 0; transform: scale(0.5); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
+
 @keyframes pulse-dot {
   0%, 100% { transform: scale(1); opacity: 1; }
   50% { transform: scale(1.4); opacity: 0.6; }
