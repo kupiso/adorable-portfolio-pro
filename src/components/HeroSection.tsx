@@ -1,17 +1,14 @@
 import profileAvatar from "@/assets/profile-avatar.jpg";
-import heroBg from "@/assets/hero-bg.jpg";
+
 
 const HeroSection = () => (
   <section
     id="home"
     className="relative min-h-screen flex flex-col md:flex-row items-center px-6 md:px-12 py-20 max-w-[1200px] mx-auto gap-10 md:gap-16 z-[1]"
   >
-    {/* Full-page background image */}
-    <div
-      className="fixed inset-0 z-0 bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: `url(${heroBg})` }}
-    >
-      <div className="absolute inset-0 bg-background/85 backdrop-blur-[2px]" />
+    {/* Adorable gradient background */}
+    <div className="fixed inset-0 z-0 bg-gradient-to-br from-blush via-cream to-[hsl(var(--sage-light))]">
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_20%_50%,_hsla(14,68%,62%,0.15),_transparent_60%),_radial-gradient(ellipse_at_80%_20%,_hsla(335,30%,68%,0.12),_transparent_50%),_radial-gradient(ellipse_at_60%_80%,_hsla(130,25%,78%,0.15),_transparent_50%)]" />
     </div>
 
     {/* Left */}
